@@ -215,6 +215,4 @@ Thank you for your time and consideration.
 
 SUBHAM DEY
 =======
-# Fintrack-API
-A role-based personal finance tracking backend built with FastAPI for the Zorvyn Backend Screening Assignment.
->>>>>>> 15ad0f0272888387433d88f2bcb4d1de016b0ed5
+
